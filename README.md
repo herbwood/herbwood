@@ -1,1 +1,4 @@
-# herbwood
+# Herbwood
+
+I am a deep-thinking and curious person studying deep learning. I majored in philosophy at university, but I was interested in artificial intelligence and studied [programming](https://github.com/herbwood/study_odds_ends), [algorithms](https://github.com/herbwood/study_algorithms), and [data science](https://github.com/herbwood/study_datascience). Recently, I am interested in **object detection algorithms** in the field of computer vision and **deep learning technologies that operate on mobile platform**. In the meantime, I've compiled a review of machine learning algorithms and computer vision articles on [my blog](https://herbwood.github.io/category/study/).
+Below is a deep learning project related to computer vision that I have conducted. Currently, I am working on a project to develop a framework for facial liveness detection.
