@@ -20,11 +20,11 @@
   - Suhyun Lee, **JuneHyoung Kwon**, Eunju Lee, Young Bin Kim
   - 대한전자공학회 하계종합학술대회 2023
 - **Partitioning Transformer: 입력 차원 구간 분할을 통한 셀프 어텐션 추론 효율화**
-  - Jaehoon Park, **Junehyoung Kwon**, Yunsung Cho, Yehoon Jang, Sangmin Song, Aro Yun, Youngbin Kim  
-  - 대한전자공학회 하계종합학술대회 2023
+  - Jaehoon Park, **JuneHyoung Kwon**, Yunsung Cho, Yehoon Jang, Sangmin Song, Aro Yun, Youngbin Kim  
+  - 대한전자공학회 하계종합학술대회 2022
 - **효과적인 최적 프레임 선택을 위한 Self-Channel Attention Head 및 Weighted Margin Ranking Loss**
   - Eunju Lee, **JuneHyoung Kwon**, Pilseo Park, YunSung Cho, Soojin Jang, Youngbin Kim        
-  - 대한전자공학회 하계종합학술대회 2023
+  - 대한전자공학회 하계종합학술대회 2022
 - **약지도 의미론적 분할을 위한 거대 커널 기반 고품질 수도 마스크 생성 기법**
   - ARo Yun, **JuneHyoung Kwon**, Soojin Jang, Bilan Gao, YoungBin Kim  
   - 한국정보과학회 학술발표논문집 2022
