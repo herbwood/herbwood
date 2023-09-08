@@ -2,8 +2,7 @@
 
 
 ## Publications
-#### See [Google scholar](https://scholar.google.com/citations?user=1U_qmnYAAAAJ&hl=en).
-
+#### See [Google scholar](https://scholar.google.com/citations?user=1U_qmnYAAAAJ&hl=en) for detailed publications📜.
 ### 🌍International Publications 
 - **Development of robust detector using the weather deep generative model for outdoor monitoring system**
   - Kyo-Hoon Jin, Kyung-Su Kang, Baek-Kyun Shin, **JuneHyoung Kwon**, Soo-Jin Jang, Young-Bin Kim, Han-Guk Ryu
