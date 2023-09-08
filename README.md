@@ -15,7 +15,7 @@
   - **JuneHyoung Kwon**, Junhyeok An, Soojin Jang, Kyohoon Jin, YoungBin Kim
   - Plos One 2022
 
-### Domestic Publications 
+### 🌆Domestic Publications 
 - **확률적 소프트 프롬프트 : 프롬프트를 통한 저자원 NLI의 강인성 향상**
   - Suhyun Lee, **JuneHyoung Kwon**, Eunju Lee, Young Bin Kim
   - 대한전자공학회 하계종합학술대회 2023
