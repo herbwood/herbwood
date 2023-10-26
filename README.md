@@ -1,9 +1,15 @@
-👋&nbsp; I'm **Herbwood**, a Ph.D student in Graduate school of AI at [Chung-Ang University](https://www.cau.ac.kr/), where I'm advised by Prof. [YoungBin Kim](https://sites.google.com/view/iiplcau/professor) in the [Intelligent Information Processing Lab (IIPL)](https://sites.google.com/view/iiplcau/home). My research interest is weakly supervised learning👩‍🏫 and data augmentation📚. I have recently become interested in multimodal debiasing.
+👋&nbsp; I'm **Herbwood**, a Ph.D. student in Graduate school of AI at [Chung-Ang University](https://www.cau.ac.kr/), where I'm advised by Prof. [YoungBin Kim](https://sites.google.com/view/iiplcau/professor) in the [Intelligent Information Processing Lab (IIPL)](https://sites.google.com/view/iiplcau/home). My research interest is weakly supervised learning👩‍🏫 and data augmentation📚. I have recently become interested in multimodal debiasing.
 
 
 ## Publications
 #### See [Google scholar](https://scholar.google.com/citations?user=1U_qmnYAAAAJ&hl=en) for detailed publications📜.
 ### 🌍International Publications 
+- **Learning to Detour: Shortcut Mitigating Augmentation for Weakly Supervised Semantic Segmentation**
+  - **JuneHyoung Kwon**, Eunju Lee, Yunsung Cho, YoungBin Kim
+  - _Winter Conference on Applications of Computer Vision (WACV) 2024_
+- **Domain-Adaptive Vision Transformers for Generalizing Across Visual Domains**
+  - Yunsung Cho, Jungmin Yun, **JuneHyoung Kwon**, YoungBin Kim
+  - _IEEE Acess 2023_
 - **Development of robust detector using the weather deep generative model for outdoor monitoring system**
   - Kyo-Hoon Jin, Kyung-Su Kang, Baek-Kyun Shin, **JuneHyoung Kwon**, Soo-Jin Jang, Young-Bin Kim, Han-Guk Ryu
   - _Expert Systems with Applications (ESWA) 2023_
@@ -11,7 +17,7 @@
   - Soojin Jang, **JuneHyoung Kwon**, KyoHoon Jin, YoungBin Kim
   - _Engineering Applications of Artificial Intelligence (EAAI) 2023_
 - **Saliency guided data augmentation strategy for maximally utilizing an object’s visual information**
-  - **JuneHyoung Kwon**, Junhyeok An, Soojin Jang, Kyohoon Jin, YoungBin Kim
+  - Junhyeok An*, Soojin Jang*, **JuneHyoung Kwon***, Kyohoon Jin, YoungBin Kim
   - _Plos one 2022_
 
 ### 🌆Domestic Publications 
