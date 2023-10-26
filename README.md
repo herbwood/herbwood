@@ -12,7 +12,7 @@
   - _Winter Conference on Applications of Computer Vision (WACV) 2024_
 - **Domain-Adaptive Vision Transformers for Generalizing Across Visual Domains**
   - Yunsung Cho, Jungmin Yun, **JuneHyoung Kwon**, YoungBin Kim
-  - _IEEE Acess 2023_
+  - _IEEE Access 2023_
 - **Development of robust detector using the weather deep generative model for outdoor monitoring system**
   - Kyo-Hoon Jin, Kyung-Su Kang, Baek-Kyun Shin, **JuneHyoung Kwon**, Soo-Jin Jang, Young-Bin Kim, Han-Guk Ryu
   - _Expert Systems with Applications (ESWA) 2023_
