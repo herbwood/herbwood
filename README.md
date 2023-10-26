@@ -1,5 +1,8 @@
 👋&nbsp; I'm **Herbwood**, a Ph.D. student in Graduate school of AI at [Chung-Ang University](https://www.cau.ac.kr/), where I'm advised by Prof. [YoungBin Kim](https://sites.google.com/view/iiplcau/professor) in the [Intelligent Information Processing Lab (IIPL)](https://sites.google.com/view/iiplcau/home). My research interest is weakly supervised learning👩‍🏫 and data augmentation📚. I have recently become interested in multimodal debiasing.
 
+## 🎉News
+- 2023.10.25 : One paper has been accepted at **WACV 2024**👏
+- 2023.10.12 : One paper has been accepted at **IEEE Access**👏
 
 ## Publications
 #### See [Google scholar](https://scholar.google.com/citations?user=1U_qmnYAAAAJ&hl=en) for detailed publications📜.
