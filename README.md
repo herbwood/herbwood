@@ -21,6 +21,7 @@
   - _Engineering Applications of Artificial Intelligence (EAAI) 2023_
 - **Saliency guided data augmentation strategy for maximally utilizing an object’s visual information**
   - Junhyeok An*, Soojin Jang*, **JuneHyoung Kwon***, Kyohoon Jin, YoungBin Kim
+  - *: equal contributions
   - _Plos one 2022_
 
 ### 🌆Domestic Publications 
