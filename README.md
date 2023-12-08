@@ -1,6 +1,7 @@
 👋&nbsp; I'm **Herbwood**, a Ph.D. student in Graduate school of AI at [Chung-Ang University](https://www.cau.ac.kr/), where I'm advised by Prof. [YoungBin Kim](https://sites.google.com/view/iiplcau/professor) in the [Intelligent Information Processing Lab (IIPL)](https://sites.google.com/view/iiplcau/home). My research interest is weakly supervised learning👩‍🏫 and data augmentation📚. I have recently become interested in multimodal debiasing.
 
 ## 🎉News
+- 2023.12.07 : One paper has been accepted at **IEEE Access**👏
 - 2023.10.25 : One paper has been accepted at **WACV 2024**👏
 - 2023.10.12 : One paper has been accepted at **IEEE Access**👏
 
@@ -10,6 +11,9 @@
 - **Learning to Detour: Shortcut Mitigating Augmentation for Weakly Supervised Semantic Segmentation**
   - **JuneHyoung Kwon**, Eunju Lee, Yunsung Cho, YoungBin Kim
   - _Winter Conference on Applications of Computer Vision (WACV) 2024_
+- **Enhancing Noisy Label Facial Expression Recognition with Split and Merge Consistency Regularization**
+  - JiHyun Kim, **JuneHyoung Kwon**, MiHyeon Kim, Eunju Lee
+  - _IEEE Access 2023_
 - **Domain-Adaptive Vision Transformers for Generalizing Across Visual Domains**
   - Yunsung Cho, Jungmin Yun, **JuneHyoung Kwon**, YoungBin Kim
   - _IEEE Access 2023_
