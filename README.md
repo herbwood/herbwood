@@ -12,7 +12,7 @@
   - **JuneHyoung Kwon**, Eunju Lee, Yunsung Cho, YoungBin Kim
   - _Winter Conference on Applications of Computer Vision (WACV) 2024_
 - **Enhancing Noisy Label Facial Expression Recognition with Split and Merge Consistency Regularization**
-  - JiHyun Kim, **JuneHyoung Kwon**, MiHyeon Kim, Eunju Lee
+  - JiHyun Kim, **JuneHyoung Kwon**, MiHyeon Kim, Eunju Lee, YoungBin Kim
   - _IEEE Access 2023_
 - **Domain-Adaptive Vision Transformers for Generalizing Across Visual Domains**
   - Yunsung Cho, Jungmin Yun, **JuneHyoung Kwon**, YoungBin Kim
