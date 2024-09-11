@@ -6,7 +6,13 @@
 
 ## Publications
 #### See [Google scholar](https://scholar.google.com/citations?user=1U_qmnYAAAAJ&hl=en) for detailed publications📜.
-### 🌍International Publications 
+### 🌍International Publications
+- **DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation**
+  - Soojin Jang, Jungmin Yun, **JuneHyoung Kwon**, Eunju Lee, YoungBin Kim
+  - _European Conference on Computer Vision (ECCV) 2024_
+- **A Weakly Supervised Learning Framework Utilizing Enhanced Class Activation Map for Object Detection in Construction Sites**
+  - Jaehun Yang, Eunju Lee, **JuneHyoung Kwon**, Dongmin Lee, Youngbin Kim, Chansik Park, Doyeop Lee
+  - _IEEE Access 2024_
 - **Learning to Detour: Shortcut Mitigating Augmentation for Weakly Supervised Semantic Segmentation**
   - **JuneHyoung Kwon**, Eunju Lee, Yunsung Cho, YoungBin Kim
   - _Winter Conference on Applications of Computer Vision (WACV) 2024_
@@ -28,6 +34,12 @@
   - _Plos one 2022_
 
 ### 🌆Domestic Publications 
+- **DualColor: Dual-Guided Colorization with Grayscale Knowledge Transfer for Vivid Sketch Colorization**
+  - SeungHoo Lee, **JuneHyoung Kwon**, Jooweon Choi, Mihyeon Kim, Eunju Lee, Young Bin Kim
+  - _대한전자공학회 하계종합학술대회 2024_
+- **모드 붕괴 완화를 위한 누적 샘플 분포 기반 적대적 생성 모델**
+  - Seunghoon Lee, **JuneHyoung Kwon**, Young Bin Kim
+  - _36th Workshop on Image Processing and Image Understanding 2024_
 - **확률적 소프트 프롬프트 : 프롬프트를 통한 저자원 NLI의 강인성 향상**
   - Suhyun Lee, **JuneHyoung Kwon**, Eunju Lee, Young Bin Kim
   - _대한전자공학회 하계종합학술대회 2023_
